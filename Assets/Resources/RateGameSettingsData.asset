@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33912a96600b81bc7238c82741c28c0a, type: 3}
+  m_Name: RateGameSettingsData
+  m_EditorClassIdentifier:
+  iosAppID: 1234453
+  googlePlayBundleID: woody.blockpuzzle.sudoku.tetris
+  ratePopupCanvas: {fileID: 1858048579171776, guid: 3e01dd9a4f341644091351614e4ff866, type: 2}
+  popupGameObject: {fileID: 1128225616978589, guid: 5ab76b87528e8b34aa4b3123985b2cae, type: 2}
+  popupYesNoGameObject: {fileID: 1403061151209862, guid: c1207d0d75cb7a84d8988b5ac1b901ff, type: 2}
+  minStarsToSend: 4
